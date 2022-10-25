@@ -3,25 +3,27 @@
 Développer IP Finder un gébérateur d'IP à partir de l'URL du site.  
 Le programme est réalisé en Java à l'aide de Networking, AWT/Swing avec gestion des événements.  
 
-## Cloner le repository:
+## Cloner le repository:  
 
-* Créer le dossier IPFinder:
-```$ mkdir IPFinder```
-* Accéder au dossier:
-``` $ cd IPFinder```
-* Cloner le repo:
-``` $ git clone https://github.com/sialorama/IP_Finder_in_Java.git ```
+* Créer le dossier IPFinder:  
+```$ mkdir IPFinder```  
+* Accéder au dossier:  
+``` $ cd IPFinder```  
+* Cloner le repo:  
+``` $ git clone https://github.com/sialorama/IP_Finder_in_Java.git ```  
 
-## Installation Java:
+## Installation Java:  
 
-* Sous Linux
+* Sous Linux:  
 [Tuto installation java](https://linuxhint.com/install_java_linux_mint/).  
 
-* Sous Windows:
-[Installer le JDK 17 LTS](https://www.adoptium.net)
-** Vérifier l'installation:
-Dans un terminal windows (Touches clavier Windows+R, puis entrez cmd et Entrer), taper:  
-``` java -version ```
+* Sous Windows & MacOS:  
+[Installer le JDK 17 LTS](https://www.adoptium.net)  
+** Vérifier l'installation:  
+Dans un terminal (windows, Touches clavier Windows+R, puis entrez cmd et Entrer),  
+(MacOS, Command+space -> écrire Terminal -> Enter)  
+
+taper: ``` java -version ```  
 
 ## Executer le programme:  
  
