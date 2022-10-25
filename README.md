@@ -22,9 +22,22 @@ Le programme est réalisé en Java à l'aide de Networking, AWT/Swing avec gesti
   
 ### Vérifier l'installation:  
 Dans un terminal (windows, Touches clavier Windows+R -> écrire cmd -> Enter),  
-(MacOS, Command+space -> écrire Terminal -> Enter)  
+(MacOS, Command+space -> écrire Terminal -> Enter);  
 
-taper: ``` java -version ```  
+Taper: ``` java -version ``` 
+
+``` 
+**Linux**:
+openjdk 17.0.4 2022-07-19  
+OpenJDK Runtime Environment Temurin-17.0.4+8 (build 17.0.4+8)  
+OpenJDK 64-Bit Server VM Temurin-17.0.4+8 (build 17.0.4+8, mixed mode, sharing)  
+  
+**Windows**:
+openjdk version "11.0.16" 2022-07-19  
+OpenJDK Runtime Environment (build 11.0.16+8-post-Ubuntu-0ubuntu120.04)  
+OpenJDK 64-Bit Server VM (build 11.0.16+8-post-Ubuntu-0ubuntu120.04, mixed mode)  
+
+```
 
 ## Executer le programme:  
  
