@@ -24,8 +24,9 @@ Le programme est réalisé en Java à l'aide de Networking, AWT/Swing avec gesti
 Dans un terminal (windows, Touches clavier Windows+R -> écrire cmd -> Enter),  
 (MacOS, Command+space -> écrire Terminal -> Enter);  
 
-Taper: ``` java -version ``` 
-
+Taper: ``` java -version ```  
+  
+  
 **Résultat:**
 ``` 
 Résultat:
