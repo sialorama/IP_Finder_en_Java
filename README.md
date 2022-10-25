@@ -1,6 +1,6 @@
-# IP_Finder_in_Java  
+# IP Finder en Java  
 
-Développer IP Finder un gébérateur d'IP à partir de l'URL du site.  
+Développer IP Finder un générateur d'IP à partir de l'URL du site.  
 Le programme est réalisé en Java à l'aide de Networking, AWT/Swing avec gestion des événements.  
 
 ## Cloner le repository:  
