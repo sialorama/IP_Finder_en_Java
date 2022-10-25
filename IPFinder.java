@@ -1,6 +1,7 @@
 import javax.swing.*;  
 import java.awt.event.*;  
 import java.net.*;  
+
 public class IPFinder extends JFrame implements ActionListener{  
     JLabel l;  
     JTextField tf;  
