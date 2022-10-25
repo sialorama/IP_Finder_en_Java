@@ -7,11 +7,11 @@ Le programme est réalisé en Java à l'aide de Networking, AWT/Swing avec gesti
   
 * Sous Linux:  
 Executer la commande suivante dans le terminal.  
-Il faut au préalable installer Java, ![https://linuxhint.com/install_java_linux_mint/]('Tuto installation java.').  
+Il faut au préalable installer Java, [Tuto installation java]('https://linuxhint.com/install_java_linux_mint/').  
 
 ``` $ java IPFinder.java ```  
 
 ## Aperçu:  
 
-![image1]("./images/ipfinder1.png")  
-![image2]("./images/ipfinder2.png")  
+![image1](./images/ipfinder1.png)  
+![image2](./images/ipfinder2.png)  
