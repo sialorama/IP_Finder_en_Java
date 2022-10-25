@@ -40,7 +40,7 @@ Executer la commande suivante dans le terminal.
 
 ## Executer le programme:  
 Executer la commande suivante dans le terminal.  
-``` $ java IPFinder.java ```  
+``` $ java IPFinder ```  
 
 ## Aperçu:  
 
