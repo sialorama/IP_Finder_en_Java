@@ -19,7 +19,8 @@ Le programme est réalisé en Java à l'aide de Networking, AWT/Swing avec gesti
 
 * Sous Windows & MacOS:  
 [Installer le JDK 17 LTS](https://www.adoptium.net)  
-** Vérifier l'installation:  
+  
+### Vérifier l'installation:  
 Dans un terminal (windows, Touches clavier Windows+R -> écrire cmd -> Enter),  
 (MacOS, Command+space -> écrire Terminal -> Enter)  
 
