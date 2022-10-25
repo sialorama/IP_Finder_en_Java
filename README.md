@@ -26,8 +26,9 @@ Dans un terminal (windows, Touches clavier Windows+R -> écrire cmd -> Enter),
 
 Taper: ``` java -version ``` 
 
+**Résultat:**
 ``` 
-** Résultat **:
+Résultat:
 openjdk 17.0.4 2022-07-19  
 OpenJDK Runtime Environment Temurin-17.0.4+8 (build 17.0.4+8)  
 OpenJDK 64-Bit Server VM Temurin-17.0.4+8 (build 17.0.4+8, mixed mode, sharing)    
