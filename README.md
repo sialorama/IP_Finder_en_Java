@@ -13,5 +13,5 @@ Il faut au préalable installer Java, ![https://linuxhint.com/install_java_linux
 
 ## Aperçu:  
 
-![image1]("images/ipfinder1.png")  
-![image2]("images/ipfinder2.png")  
+![image1]("./images/ipfinder1.png")  
+![image2]("./images/ipfinder2.png")  
