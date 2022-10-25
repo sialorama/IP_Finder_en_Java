@@ -19,11 +19,13 @@ Le programme est réalisé en Java à l'aide de Networking, AWT/Swing avec gesti
 
 * Sous Windows:
 [Installer le JDK 17 LTS](https://www.adoptium.net)
+** Vérifier l'installation:
+Dans un terminal windows (Touches clavier Windows+R, puis entrez cmd et Entrer), taper:  
+``` java -version ```
 
 ## Executer le programme:  
  
 Executer la commande suivante dans le terminal.  
-
 ``` $ java IPFinder.java ```  
 
 ## Aperçu:  
