@@ -6,13 +6,13 @@ public class IPFinder extends JFrame implements ActionListener{
     JTextField tf;  
     JButton b;  
 IPFinder(){  
-    super("IP Finder Tool - Javatpoint");  
-    l=new JLabel("Enter URL:");  
+    super("IP Finder Tool");  
+    l=new JLabel("Adresse du site:");  
     l.setBounds(50,70,150,20);;  
     tf=new JTextField();  
     tf.setBounds(50,100,200,20);  
       
-    b=new JButton("Find IP");  
+    b=new JButton("Ok");  
     b.setBounds(50,150,80,30);  
     b.addActionListener(this);  
     add(l);  
