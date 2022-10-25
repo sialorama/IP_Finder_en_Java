@@ -36,7 +36,7 @@ OpenJDK 64-Bit Server VM Temurin-17.0.4+8 (build 17.0.4+8, mixed mode, sharing)
 ```
 ## Compiler le programme:  
 Executer la commande suivante dans le terminal.  
-``` $ java IPFinder.java ``` 
+``` $ javac IPFinder.java ``` 
 
 ## Executer le programme:  
 Executer la commande suivante dans le terminal.  
