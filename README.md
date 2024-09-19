@@ -7,10 +7,10 @@ Le programme est réalisé en Java à l'aide de Networking, AWT/Swing avec gesti
 
 * Créer le dossier IPFinder:  
 ```$ mkdir IPFinder```  
-* Accéder au dossier:  
-``` $ cd IPFinder```  
 * Cloner le repo:  
 ``` $ git clone https://github.com/sialorama/IP_Finder_in_Java.git ```  
+* Accéder au dossier:  
+``` $ cd IPFinder```
 
 ## Installation Java:  
 
